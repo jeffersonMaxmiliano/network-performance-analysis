@@ -1,0 +1,6 @@
+Experiment Conditions Description
+
+The following labels are used in the dataset and plotting scripts:
+
+brio   : Line-of-Sight (LOS) condition
+webcam : Non-Line-of-Sight (NLOS) condition
